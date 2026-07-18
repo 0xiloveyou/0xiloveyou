@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="./assets/banner_v4.png" alt="Rafiq Ahammed - GitHub Profile Banner" width="100%" />
+  <img src="./assets/banner_v5.png" alt="Rafiq Ahammed - GitHub Profile Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/typing_intro.svg" alt="Hi, I'm Rafiq Ahammed - Full Stack Web Developer | JavaScript and TypeScript Enthusiast" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Rafiq+Ahammed" alt="Hi, I'm Rafiq Ahammed" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=%E2%80%8B;Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast" alt="Full Stack Web Developer | JavaScript and TypeScript Enthusiast" />
 </p>
 
 <p align="center">
@@ -98,4 +102,5 @@ I am a passionate developer who enjoys building clean, useful, and scalable web 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xiloveyou&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
+
 
