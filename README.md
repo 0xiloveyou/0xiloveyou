@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_v2.png" alt="Rafiq Ahammed - GitHub Profile Banner" width="100%" />
+  <img src="./assets/banner_v3.png" alt="Rafiq Ahammed - GitHub Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rafiq Ahammed</h1>
