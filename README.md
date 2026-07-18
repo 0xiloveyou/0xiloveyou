@@ -2,8 +2,13 @@
   <img src="./assets/banner_v3.png" alt="Rafiq Ahammed - GitHub Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Rafiq Ahammed</h1>
-<h3 align="center">Full Stack Web Developer | JavaScript & TypeScript Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Rafiq+Ahammed" alt="Hi, I'm Rafiq Ahammed" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast" alt="Full Stack Web Developer | JavaScript and TypeScript Enthusiast" />
+</p>
 
 <p align="center">
   <a href="mailto:care.1337.leet@gmail.com">
