@@ -40,7 +40,7 @@ I am a passionate developer who enjoys building clean, useful, and scalable web 
   <a href="https://github.com/0xiloveyou">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/0xiloveyou">
+  <a href="https://www.linkedin.com/in/rafiq-ahammed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
